@@ -3,6 +3,7 @@ class Solution:
            nums = set(nums)
            i = 1
            while i in nums:
-                i += 1
+            i+=1
            return i
+        
         
